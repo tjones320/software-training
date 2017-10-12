@@ -1,0 +1,3 @@
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week1/cmake-build-debug/CMakeFiles/week1_final.dir
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

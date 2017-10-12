@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/starter_helpers.cpp
+
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/starter_main.cpp
+

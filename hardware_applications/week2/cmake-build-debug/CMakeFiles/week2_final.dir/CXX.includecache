@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/final_helpers.cpp
+iostream
+-
+final_helpers.h
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/final_helpers.h
+
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/final_helpers.h
+STSL/RJRobot.h
+-
+
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/final_main.cpp
+iostream
+-
+STSL/RJRobot.h
+-
+final_helpers.h
+C:/Users/tanne/Desktop/GeorgiaTech/SoftwareTraining/Week1/software-training/hardware_applications/week2/final_helpers.h
+
